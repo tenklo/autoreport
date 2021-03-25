@@ -1,0 +1,9 @@
+certifi==2020.12.5
+chardet==4.0.0
+DateTime==4.3
+idna==2.10
+pytz==2021.1
+requests==2.25.1
+urllib3==1.26.4
+webuntis==0.1.12
+zope.interface==5.3.0
