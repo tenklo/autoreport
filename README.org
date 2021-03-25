@@ -3,7 +3,7 @@
 ** Table of Contents :toc:
 - [[#autoreport][autoreport]]
   - [[#description][Description]]
-  - [[#todo][TODO]]
+  - [[#to-do][TO DO]]
   - [[#installation][Installation]]
 
 ** Description
@@ -12,8 +12,8 @@ This script aims to automate the creation of booklet reports.
 - It pulls information about your timetable from webuntis.
 - It creates a .json file containing schedule data and the structure to add additional information
 
-** TODO
+** TO DO
 - actually create the report file
 ** Installation
 1. clone the repository
-2. install the requirements via `pip install -r requirements.txt`
+2. install the requirements via =pip install -r requirements.txt=
