@@ -1,6 +1,6 @@
 #+TITLE: Readme
 * autoreport
-This project is considered alpha.
+This project is considered to be in alpha state.
 ** Table of Contents :toc:
 - [[#autoreport][autoreport]]
   - [[#description][Description]]
